@@ -95,6 +95,7 @@ if choice == "🏠 Trang chủ":
         * **Bài 11:** Học tăng cường (Q-learning) — Gymnasium, huấn luyện chính sách MDP
         * **Bài 12:** Đồ án tích hợp — Xây dựng nguyên mẫu AIDEOM-VN với Streamlit Dashboard
         """)
+
 # ==========================================
 # TRANG 2 -> 11: PLACEHOLDERS (Để trống cho tương lai)
 # ==========================================
